@@ -1,6 +1,6 @@
 
 
-# Cross Government Software Engineering Community
+# Cross Government QA Community
 
 [Link to website ](https://uk-x-gov-software-community.github.io/)
 
