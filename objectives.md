@@ -1,10 +1,10 @@
 ---
 layout: page.njk
-title: Our Objectives
+title: Our Objectives and Principles
 ---
 
 
-### 1. Connect development teams across government
+#### 1. Connect Quality Assurance And Testing teams across government
 
 The primary aim of the group is to connect teams through a series of mechanisms:-
 
@@ -12,74 +12,25 @@ The primary aim of the group is to connect teams through a series of mechanisms:
 * **Facilitated Events**
 * **Mailing List**
 * **X-Gov Slack**
- 
 
-### 2. Learning and development
+#### 2. Facilitate networking opportunities and collaboration among QAT professionals from diverse government departments and agencies.
 
-One aim of the group is to understand and faciliate Learning and development within teams and understand and share what are we doing to progress our careers. 
+#### 3. Share knowledge, experiences, and good practices in quality assurance and testing methodologies, tools, and techniques.
 
-Addressing questions and sharing information such as 
+#### 4. Provide support, guidance, and resources to members to enhance their skills, capabilities, and effectiveness in quality assurance and testing roles.
 
-**What Learning resources are being used ?**
+#### 5. Promote awareness and adoption of new technologies, industry standards, frameworks, and certifications relevant to quality assurance and testing.
 
-e.g. we know 
+#### 6. Advocate for the importance of quality assurance and testing in the delivery of digital services and promote a culture of quality throughout the Civil Service.
 
-Several teams have Pluralsight accounts
+## Principles
 
-O'Reilly Online Learning is also a popular subscription
+#### 1. Collaboration: We believe in the power of collaboration and cooperation among members to achieve common goals and drive positive change in quality assurance and testing practices.
 
-**What Learning techniques are adopted ?**
+#### 2. Knowledge Sharing: We are committed to sharing knowledge, experiences, and good practices openly and transparently, fostering a culture of continuous learning and improvement.
 
-e.g.
+#### 3. Inclusivity: We embrace diversity and inclusivity, welcoming members from all backgrounds, experiences, and perspectives to contribute to the community's collective wisdom.
 
-* Learning techniques
-* Pair programming
-* Hack days
-* Code retreats
+#### 4. Professionalism: We uphold high standards of professionalism, integrity, and ethical conduct in all community activities and interactions, where our involvement and wider work is underpinned by the Civil Service code.
 
-**How are Apprenticeships used ?**
-
-e.g. Some departments have used an [apprenticeship scheme](https://digitalpeople.blog.gov.uk/2020/02/03/how-do-you-attract-more-software-developers-into-your-department/) 
-
-**How are we Finding time for learning ?**
-
-Finding enough time to keep skills up to date is an issue. Developers are sometimes allocated a percentage of time from their working week for self-learning. Others are too busy and learn during evenings and weekends. 
-
-
-### 3. Championing standards
-
-An aim of the group is to champion x-government standards to do this we aim to understand
-
-**What standards are in place within government software engineering communities?**
-
-For 
-
-* Technology choices
-* Techniques
- 
-
-**What Developer standards are there ?** 
-
-Like 
-[Defra's developer standards](https://github.com/DEFRA/software-development-standards)
-
- 
-**How are standards communicated within departments?**
-
-
-### 4. Promoting diversity and inclusion
-An aim of the group is to understand 
-how can we improve diversity and inclusion within our government software engineering community? and promote greater diversity and understand :-
-
-**What are departments already doing?**
-
-An aim of the group is to understand what departments and bodies are doing in this area.
-
-**Sharing recruitment experience**
-
-An aim of the group is to understand and share recruitment experience.  
-
-
-### 5. Represent the software engineering community in DDAT conversations
-
-An aim of the group is to discuss and represent the community in relation to the [DDAT Framework](https://www.gov.uk/guidance/software-developer)
+#### 5. Innovation: We encourage innovation, creativity, and experimentation in exploring new approaches and solutions to quality assurance and testing challenges.
