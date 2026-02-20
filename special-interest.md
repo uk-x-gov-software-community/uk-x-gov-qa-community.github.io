@@ -11,34 +11,34 @@ If you'd like to join a special interest group please contact the relevant SIG l
 
 |     | Learning & Development SIG|
 |-----|---|
-| Contact  | Jaspal Sangha (jaspal.sangha@homeoffice.gov.uk)|
+| Contact  | [Jaspal Sangha](jaspal.sangha@homeoffice.gov.uk)|
 
 
 ## Testing standards & best practices
 
 |     | Testing standards & best practices SIG|
 |-----|---|
-|Contact | Pam Crosby (pam.crosby@digital.justice.gov.uk)|
+|Contact | [Pam Crosby](pam.crosby@digital.justice.gov.uk)|
 
 
 ## Events & Conferences
 
 |     | Events & Conferences SIG|
 |-----|---|
-| Contact | Tracey Ford (tracey.ford@os.uk) |
+| Contact | [Tracey Ford](tracey.ford@os.uk) |
 
 
 ## Government Digital and Data QAT framework
 
 |     | Government Digital and Data QAT framework SIG|
 |-----|---|
-|Contact | Russell Craxford (russell.craxford1@engineering.digital.dwp.gov.uk)|
+|Contact | [Russell Craxford](russell.craxford1@engineering.digital.dwp.gov.uk)|
 
 
 ## Testing and QA for AI Solutions
 
 |     | Testing and QA for AI Solutions SIG|
 |-----|---|
-| Contact  | Mibin Boban (mibin.boban@digital.cabinet-office.gov.uk) |
+| Contact  | [Mibin Boban](mibin.boban@digital.cabinet-office.gov.uk) |
 
 
